@@ -1,2 +1,3 @@
-# javascript_ada
-Módulo de Javascript, na trilha de Backend do ifood, desenvolvida pela ADA Tech
+# Módulo de Javascript
+
+Esse repositório tem como objetivo guardar os arquivos js, desenvolvidos em aula, no curso "Trilha de Backend - Ifood", feito pela ADA Tech
